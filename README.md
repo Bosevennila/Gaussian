@@ -52,7 +52,8 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/Bosevennila/Gaussian/assets/144870486/8eab23ca-9ebc-4ae5-8378-a6050fabb2b9)
+![image](https://github.com/Bosevennila/Gaussian/assets/144870486/f9415a08-48dc-4188-9a9a-f25e799509f6)
+
 
 
 
